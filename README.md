@@ -1,5 +1,5 @@
 # 2048-game
-The classic 2048 game made using python
+The classic 2048 game made using python. The program also uses the python random package and the tkinter package 
 
 # UI
 
